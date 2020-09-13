@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Projeto de Bloco Infnet ArangoDB
 
-You can use the [editor on GitHub](https://github.com/Projeto-Infnet/projeto_arango/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+            Com a necessidade de aumento no volume de dados, uma aplicação gera um crescimento nos relacionamentos e conexões dos dados. Nos bancos de dados tradicionais, é difícil tratar dados brutos não estruturados. Bancos de dados em Grafo, como o ArangoDb, as queries permanecem constantes e são ideais para aplicações com muitos relacionamentos. Permitindo melhor desempenho com a manutenção de grandes dados não estruturados e escalabilidade mais simples. 
+
 
 ### Markdown
 
